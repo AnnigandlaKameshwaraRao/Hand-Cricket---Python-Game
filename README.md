@@ -1,4 +1,4 @@
-Welcome back! Let's play 'Hand Cricket'
+Welcome back! Let's play 'Hand Cricket'.
 The test match and super over features are under development!
 
 Game Description:
